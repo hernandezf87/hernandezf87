@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Francisco
-- I am an engineer with a passion to create amazing applications with others.
-- 👀 I love to hike, camp, build applications with swift, and like to go for runs...
-- 🌱 I’m currently deep diving into learning SwiftUI ...
+- 👋 Hi, I’m Francisco, great to meet you
+- I am an ios developer specializing in swift.
+- 👀 When im not coding i hike, camp, watch action movies, and like to go for runs.
+- 🌱 Currently i am deep diving into SwiftUI while building a Moon Phase app with apples weatherKit, stay tuned for the repo ...
 
 
 <!---
